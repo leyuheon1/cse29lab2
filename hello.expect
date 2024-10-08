@@ -1,0 +1,9 @@
+Enter a UTF-8 encoded string: 
+Valid ASCII: true
+Uppercased ASCII: "HELLOO"
+Length in bytes: 6
+Number of code points: 6
+Bytes per code point: 1 1 1 1 1 1
+Substring of the first 6 code points: "helloo"
+Code points as decimal numbers: 68 65 108 108 111 111
+Animal emojis:
